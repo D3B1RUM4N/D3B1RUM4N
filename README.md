@@ -22,7 +22,11 @@ I worked on those on my free time. Some of them motivated from game and other to
 > I did it with Laravel as well.
 
 - [ModerationBot](https://github.com/D3B1RUM4N/ModerationBot)
-> 
+> This is my first java script Discord Bot.
+> He is under developpement and more feature are to come.
+> He mostly do some moderation but he will be able to play music in a near futur
+
+- 
 
 <!--
 **D3B1RUM4N/D3B1RUM4N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
