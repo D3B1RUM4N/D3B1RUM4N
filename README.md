@@ -18,18 +18,18 @@ I worked on those on my free time. Some of them motivated from game and other to
 > So, it was made with Laravel (a framework I learned in school so I could perfect it) with a friend who had to do the CSS part.
 > It was not finished because the server where we played the game has stopped and closed.
 
-- [LS-Transit-ThunderRP](https://github.com/D3B1RUM4N/LS-Transit-ThunderRP) | php Laravel
+- [LS-Transit-ThunderRP](https://github.com/D3B1RUM4N/LS-Transit-ThunderRP) | ``php Laravel``
 > Same reason as LSPD-Arkana, but this time my roleplay was to be the CEO of a transport company.
 > I wanted my employees to be able to add new bills for when they transported people (taxi) or goods with trucks.
 > Then, I wanted both me and my co-boss to be able to create new bonuses for the employees depending on how many bills they completed.
 > I did it with Laravel as well.
 
-- [ModerationBot](https://github.com/D3B1RUM4N/ModerationBot) | Discord.js
+- [ModerationBot](https://github.com/D3B1RUM4N/ModerationBot) | ``Discord.js``
 > This is my first java script Discord Bot.
 > He is under developpement and more feature are to come.
 > He mostly do some moderation but he will be able to play music in a near futur
 
-- [RPBot](https://github.com/D3B1RUM4N/ShadowForce) | Discord.js
+- [RPBot](https://github.com/D3B1RUM4N/ShadowForce) | ``Discord.js``
 > This one work like *ModerationBot* But I use it on the discord server where i roleplay
 > The goal is to add fun things that can be used. Like when i play as a gang member the bot will be able to create crypted message to other gangs or anonyme messages
 > It is very experimental since I add things that go through my mind that could be fun. I just want to experiment Discord.js
@@ -39,21 +39,21 @@ I worked on those on my free time. Some of them motivated from game and other to
 Most of them are cloned from my school's GitLab. Some are group project, other are Solo.<br>
 they are documented in french.
 
-- [Ethernet with C](https://github.com/D3B1RUM4N/ShadowForce) | c
+- [Ethernet with C](https://github.com/D3B1RUM4N/ShadowForce) | ``c``
 > The goal of that project was to create a simulation of internet protocol in C
 > It will send a package from a computer to another computer going trough switchs and filling the switching table.
 
-- [PumlFromJava](https://github.com/D3B1RUM4N/PumlFromJava) | Java
+- [PumlFromJava](https://github.com/D3B1RUM4N/PumlFromJava) | ``Java``
 > Here is a JAVA project. The goal was to create a .puml file of the class Diagramme of a java package we gaved in parameters.
 > We developped this using object-oriented development.
 
-- [Shock of Perspective](https://github.com/D3B1RUM4N/Shock-of-Perspectives) | Vue.js
+- [Shock of Perspective](https://github.com/D3B1RUM4N/Shock-of-Perspectives) | ``Vue.js``
 > Here is my biggest project. It was so different that what I have ever done.
 > We had 2 sentences for the subject and we had to do a full serious game about it.
 > We had no more explenation and we could do anything we wanted.
 > We decided to do it with Vue.JS as a web app with Electron.js.
 
-- [Mastermind](https://github.com/D3B1RUM4N/Mastermind) | Java SWING
+- [Mastermind](https://github.com/D3B1RUM4N/Mastermind) | ``Java SWING``
 > We made a [Mastermind](https://fr.wikipedia.org/wiki/Mastermind) using swing and Java
 > Not much to tell more 😄
 
