@@ -28,7 +28,10 @@ I worked on those on my free time. Some of them motivated from game and other to
 > He is under developpement and more feature are to come.
 > He mostly do some moderation but he will be able to play music in a near futur
 
-- 
+- [RPBot](https://github.com/D3B1RUM4N/ShadowForce)
+> This one work like *ModerationBot* But I use it on the discord server where i roleplay
+> The goal is to add fun things that can be used. Like when i play as a gang member the bot will be able to create crypted message to other gangs or anonyme messages
+> It is very experimental since I add things that go through my mind that could be fun. I just want to experiment Discord.js
 
 <!--
 **D3B1RUM4N/D3B1RUM4N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
