@@ -21,6 +21,9 @@ I worked on those on my free time. Some of them motivated from game and other to
 > Then, I wanted both me and my co-boss to be able to create new bonuses for the employees depending on how many bills they completed.
 > I did it with Laravel as well.
 
+- [ModerationBot](https://github.com/D3B1RUM4N/ModerationBot)
+> 
+
 <!--
 **D3B1RUM4N/D3B1RUM4N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
