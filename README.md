@@ -40,18 +40,18 @@ Most of them are cloned from my school's GitLab. Some are group project, other a
 they are documented in french.
 
 - [Ethernet with C](https://github.com/D3B1RUM4N/ShadowForce) | ``c``
-> The goal of that project was to create a simulation of internet protocol in C
-> It will send a package from a computer to another computer going trough switchs and filling the switching table.
+> The goal of that project was to create a simulation of an Internet protocol in C.
+> It would send a packet from one computer to another, going through switches and populating the switching table.
 
 - [PumlFromJava](https://github.com/D3B1RUM4N/PumlFromJava) | ``Java``
-> Here is a JAVA project. The goal was to create a .puml file of the class Diagramme of a java package we gaved in parameters.
-> We developped this using object-oriented development.
+> Here is a Java project. The goal was to create a .puml file of the class diagram of a Java package we gave in parameters.
+> We developed this using object-oriented development.
 
 - [Shock of Perspective](https://github.com/D3B1RUM4N/Shock-of-Perspectives) | ``Vue.js``
-> Here is my biggest project. It was so different that what I have ever done.
-> We had 2 sentences for the subject and we had to do a full serious game about it.
-> We had no more explenation and we could do anything we wanted.
-> We decided to do it with Vue.JS as a web app with Electron.js.
+> Here is my biggest project. It was so different from what I have ever done.
+> We had two sentences for the subject, and we had to do a full serious game about it.
+> We had no more explanation, and we could do anything we wanted.
+> We decided to do it with Vue.js as a web app with Electron.js.
 
 - [Mastermind](https://github.com/D3B1RUM4N/Mastermind) | ``Java SWING``
 > We made a [Mastermind](https://fr.wikipedia.org/wiki/Mastermind) using swing and Java
