@@ -11,7 +11,7 @@ I have a weird username right ? It is because I want to keep anonymity on the in
 #### *Let's start with my personnal project*
 I worked on those on my free time. Some of them motivated from game and other to learn a new language and even some to train for school project.
 
-- [LSPD-Arkana](https://github.com/Goceane149/LSPD-Arkana) | php Laravel
+- [LSPD-Arkana](https://github.com/Goceane149/LSPD-Arkana) | ``php Laravel``
 > This project was made for a game I played where I roleplayed as a police officer in a big city with other players roleplaying different jobs, etc.
 > I wanted to make the game easier for the other police and make the game more immersive. So instead of just writing the offense, report, or the criminal record of a citizen on a Google Sheet,
 > I decided with a friend from that game to create an "intranet." The goal was to implement it in the game, so when the player wants it, it opens a tab in the game with that website.
