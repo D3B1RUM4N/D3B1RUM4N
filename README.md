@@ -3,6 +3,8 @@
 I'm an IT Student working on my portfolio.<br>
 Here you will find my personnal project AND my school project !
 
+I have a weird username right ? It is because I want to keep anonymity on the internet !
+
 🏗️ This page is still under construction 🚧
 
 *Let's start with my personnal project*
