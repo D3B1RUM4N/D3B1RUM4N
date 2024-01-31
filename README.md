@@ -7,7 +7,7 @@ I have a weird username right ? It is because I want to keep anonymity on the in
 
 🏗️ This page is still under construction 🚧
 
-*Let's start with my personnal project*
+#### *Let's start with my personnal project*
 I worked on those on my free time. Some of them motivated from game and other to learn a new language and even some to train for school project.
 
 - [LSPD-Arkana](https://github.com/Goceane149/LSPD-Arkana) 
@@ -33,6 +33,10 @@ I worked on those on my free time. Some of them motivated from game and other to
 > The goal is to add fun things that can be used. Like when i play as a gang member the bot will be able to create crypted message to other gangs or anonyme messages
 > It is very experimental since I add things that go through my mind that could be fun. I just want to experiment Discord.js
 
+
+#### School Project
+Most of them are cloned from my school's GitLab. Some are group project, other are Solo.<br>
+they are documented in french.
 <!--
 **D3B1RUM4N/D3B1RUM4N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
