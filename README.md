@@ -6,6 +6,9 @@ Here you will find my personnal project AND my school project !
 
 I have a weird username right ? It is because I want to keep anonymity on the internet !
 
+#### What about this repository ?
+I want to create my own website using Symfony. A framework I have to learn. This website will be my portfolio, and I want to sell my services on it.
+
 🏗️ This page is still under construction 🚧
 
 #### *Let's start with my personnal project*
