@@ -37,6 +37,13 @@ I worked on those on my free time. Some of them motivated from game and other to
 > The goal is to add fun things that can be used. Like when i play as a gang member the bot will be able to create crypted message to other gangs or anonyme messages
 > It is very experimental since I add things that go through my mind that could be fun. I just want to experiment Discord.js
 
+- L'adriatique | ``php Laravel``
+> A real project for a restaurant named L'Adriatique. Still under development.
+> It will be their website to display their menu.
+> They will have features for them to add new meals without any database programming experience.
+> I want their website to be as evolutionary as I can.
+> I prefer to keep the repository private to avoid leaking any data.
+
 
 #### School Project
 Most of them are cloned from my school's GitLab. Some are group project, other are Solo.<br>
