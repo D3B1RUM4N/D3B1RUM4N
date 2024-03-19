@@ -11,6 +11,9 @@ I want to create my own website using Symfony. A framework I have to learn. This
 
 🏗️ This page is still under construction 🚧
 
+#### Contact
+You can find me on discord : @d3b1rum4n
+
 #### *Let's start with my personnal project*
 I worked on those on my free time. Some of them motivated from game and other to learn a new language and even some to train for school project.
 
