@@ -52,6 +52,14 @@ I worked on those on my free time. Some of them motivated from game and other to
 Most of them are cloned from my school's GitLab. Some are group project, other are Solo.<br>
 they are documented in french.
 
+- SkitSkola | ``Rest API, React, Expo``
+> This was the biggest school project I ever did. A group of 6 people, Agile organisation, teachers as client.
+> It was asked to develop a quiz game for clients. They wanted their app on web and smartphones.
+> Their app had to be delivered by version starting with a simple quiz app with question generated from [OpenTriviaDB](https://opentdb.com).
+> And at the end, the players where able to submit their own quiz, even generate some with AI ! And play multiplayer to challenge their friends.
+> I was the scrum master of this project, my task where to ask the client for more details on the needs, dispatch tasks in my team knowing who is good at what, write the document, and I helped a lot on the React part of the project (I did a lot of CSS too).
+> here are the links for the repo : [Loki (web)](https://github.com/D3B1RUM4N/loki), [Vili (mobile)](https://github.com/D3B1RUM4N/vili), [Odin (API)](https://github.com/D3B1RUM4N/odin), [CI/CD Pipelines](https://github.com/D3B1RUM4N/pipelines)
+
 - [Ethernet with C](https://github.com/D3B1RUM4N/ShadowForce) | ``c``
 > The goal of that project was to create a simulation of an Internet protocol in C.
 > It would send a packet from one computer to another, going through switches and populating the switching table.
